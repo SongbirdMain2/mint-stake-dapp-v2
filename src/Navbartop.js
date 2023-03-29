@@ -78,7 +78,7 @@ const Navbartop = () => {
                   "..." +
                   String(walletAddress).substring(38)
                 ) : (
-                  <span>Connect Wallet</span>
+                  <span>Connect Wallet 1</span>
                   
                 )}
               </button>
